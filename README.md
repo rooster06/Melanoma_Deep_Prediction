@@ -35,6 +35,4 @@ Melanoma is the most serious type of skin cancer, develops in the cells (melanoc
 
 ## Data Source
 
-![data_source](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/data_source.png)
-
-[Data](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+[![data_source](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/data_source.png)](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
