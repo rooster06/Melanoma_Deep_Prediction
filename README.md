@@ -1,6 +1,5 @@
 # Deep Melanoma Diagnostics
-Phaelo Health
-
+Prabhat Rayapati
    ![melanoma_image_ex](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/banner.png)
 
 Melanoma is the most serious type of skin cancer, develops in the cells (melanocytes) that produce melanin, early detection is key for recovery.
