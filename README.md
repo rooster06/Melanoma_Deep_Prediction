@@ -24,8 +24,17 @@ Melanoma is the most serious type of skin cancer, develops in the cells (melanoc
 
 ## 2_Augment_TransferLearning.ipynb
 
+- Data Augmentation
+- Transfer Learning Xception Model init_
+
 ## 3_1_Preprocess_TransferLearning_init.ipynb
 
 - Directory restructuring 
 - image generator with augmentation 
-- ResNet50 init_
+- Transfer Learning ResNet50 init_
+
+## Data Source
+
+![data_source](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/data_source.png)
+
+[Data](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
