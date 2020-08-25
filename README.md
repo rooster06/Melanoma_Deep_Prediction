@@ -1,4 +1,4 @@
-# Deep Melanoma Diagnostics
+# Deep Melanoma Classifier
 Prabhat Rayapati
 
    ![melanoma_image_ex](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/banner.png)
