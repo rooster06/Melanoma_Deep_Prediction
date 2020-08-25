@@ -1,7 +1,7 @@
 # Deep Melanoma Classifier
 Prabhat Rayapati
 
-   ![melanoma_image_ex](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/banner.png)
+   [![melanoma_image_ex](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/banner.png)](https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884)
 
 Melanoma is the most serious type of skin cancer, develops in the cells (melanocytes) that produce melanin, early diagnosis is key for recovery.
 
@@ -36,3 +36,5 @@ Melanoma is the most serious type of skin cancer, develops in the cells (melanoc
 ## Data Source
 
 [![data_source](https://github.com/rooster06/Melanoma_Deep_Prediction/blob/master/data_source.png)](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+
+**Note:** Images have hyperlink embeddings for more info.
